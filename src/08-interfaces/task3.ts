@@ -30,5 +30,5 @@ const person: Person = {
     age: 30
 };
 
-// ❌ Intentional Error
+//  Intentional Error
 // printEmployee(person);
