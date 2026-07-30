@@ -1,3 +1,3 @@
-let age: number = 22;
+let userAge: number = 22;
 
-// age = "Twenty Two"; Error: Type 'string' is not assignable to type 'number'.
+// userAge = "Twenty Two"; Error: Type 'string' is not assignable to type 'number'.
