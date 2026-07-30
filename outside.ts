@@ -1,0 +1,1 @@
+let outsideMessage: string = "I should never compile";
